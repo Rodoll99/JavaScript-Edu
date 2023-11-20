@@ -43,3 +43,5 @@ let compareC = 1 != "1";
 // -> false : 1과 "1"은 같지 않다 라고 말을 했을때에 결과는 false (같은 값이기 때문)
 let compareD = 1 !== "1";
 // -> true : 1과 "1"은 같지않음 ( 자료형까지 비교했을 때에 )
+
+//sdfsdfssadklfjlk안녕아녕ㅇ 
